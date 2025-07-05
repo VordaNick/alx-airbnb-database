@@ -1,1 +1,1 @@
-Joins
+SELECT INNER JOIN FROM 
